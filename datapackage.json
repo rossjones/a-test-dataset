@@ -1,0 +1,1 @@
+{"name":"a-test-dataset","title":"A test dataset","description":"a test","licenses":[{"url":"https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/","title":"Open Government Licence 3.0 (United Kingdom)"}],"publishers":[{"name":null,"web":null}],"resources":[{"name":"a file","mediatype":"text/csv","description":"erm","path":"data/a-file.csv"}]}
